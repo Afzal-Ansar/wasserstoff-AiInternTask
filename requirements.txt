@@ -9,3 +9,4 @@ pdf2image
 langchain-huggingface
 langchain-text-splitters
 streamlit
+faiss-cpu
